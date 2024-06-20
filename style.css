@@ -1,0 +1,160 @@
+body{
+    background-image: url(image\ 7\ \(1\).png);
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    background-position-x: 230px;
+    font-family: "KoHo", sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: -640px;
+    left: 885px;
+    z-index: 2;
+    font-size: 35px;
+    display: inline-block;
+    color: #10458B;
+
+}
+
+img{
+    z-index: 1;
+    width: 1000px;
+    position: relative;
+    top: 100px;
+    right: 360px;
+}
+
+h2{
+    position: relative;
+    top: -570px;
+    left: 485px;
+    font-size: 30px;
+    display: inline-block;
+    z-index: 2;
+    text-align: center;
+    color: #10458B;
+
+}
+
+.p1 {
+    z-index: 1;
+    position: relative;
+    top: -530px;
+    right: 200px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.input1{
+    position: relative;
+    top: -530px;
+    right: 200px;
+    z-index: 1;
+    border-radius: 25px;
+    width: 270px;
+    padding: 10px;
+}
+
+.p2{
+    z-index: 1;
+    position: relative;
+    top: -665px;
+    left: 330px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.input2{
+    position: relative;
+    top: -570px;
+    left: 320px;
+    z-index: 1;
+    border-radius: 25px;
+    width: 270px;
+    padding: 10px;
+}
+
+.RG{
+    position: relative;
+    top: -520px;
+    right: 200px;
+    z-index: 1;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.RG > input {
+    border-radius: 25px;
+    width: 270px;
+    padding: 10px;
+}
+
+.Cargo{
+    position: relative;
+    top: -620px;
+    left: 320px;
+    z-index: 1;
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.Cargo > input{
+    border-radius: 25px;
+    width: 270px;
+    padding: 10px;
+}
+
+.orgao{
+    position: relative;
+    top: -520px;
+    right: 200px;
+    z-index: 1;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.orgao > input{
+    border-radius: 25px;
+    width: 270px;
+    padding: 10px;
+}
+
+.categoria{
+    position: relative;
+    top: -620px;
+    left: 320px;
+    z-index: 1;
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.categoria > select {
+    border-radius: 25px;
+    width: 270px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button{
+    position: relative;
+    top: -540px;
+    left: 360px;
+    z-index: 1;
+    border-radius: 14px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.arquivos{
+    position: relative;
+    top: -300px;
+    z-index: 1;
+}

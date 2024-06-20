@@ -1,0 +1,63 @@
+body{
+    background-image: url(image\ 7\ \(1\).png);
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    background-position-x: 230px;
+    font-family: "KoHo", sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: #10458B;
+    position: relative;
+    top: 30px;
+}
+
+img{
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.fortes{
+    position: absolute;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.agradecer{
+    position: absolute;
+    top: 45%;
+    left: 33%;
+    font-size: 22px;
+}
+
+.info{
+    color: #84DFC7;
+    position: absolute;
+    top: 60%;
+    left: 35%;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+button{
+    position: absolute;
+    top: 72%;
+    right: 42%;
+    padding: 13px;
+    width: 270px;
+    color: white;
+    background-color: #10458B;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
